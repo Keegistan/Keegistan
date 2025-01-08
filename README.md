@@ -1,7 +1,7 @@
 -  @Keegistan
 -  I’m currently expanding my java knowledge
 -  I’m looking to explode :)
-- sawyer.streif@gmail.com
+
 
 <!---
 Keegistan/Keegistan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

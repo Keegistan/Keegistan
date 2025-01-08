@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Keegistan
-- 👀 I’m interested in gaming.
-- 🌱 I’m currently learning code.
-- 💞️ I’m looking to collaborate on nothing, I am working and learning by myself. :)
-- 📫 How to reach me sawyer.streif@gmail.com
+-  @Keegistan
+-  I’m currently expanding my java knowledge
+-  I’m looking to explode :)
+- sawyer.streif@gmail.com
 
 <!---
 Keegistan/Keegistan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
